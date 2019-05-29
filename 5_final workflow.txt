@@ -1,0 +1,52 @@
+﻿Facilities and Logistics: 
+* Contact Dan Lawson at (718) 687-5801 (facilities manager)
+   * November 11th at 3pm
+   * Result: Success! Dan gave me the number of the tech person who needs to be there that whole time and would need to get paid for his time there (after 5pm = overtime pay (time and a half), with a minimum of four hours at $160 total)
+   * Result: He also let me know that I need DDA to sign off on sponsoring the event in order to get it approved.
+   * Result: Available for December 12th in the evening; after getting DDA sponsor, I need to reserve through 25Live
+* Contact Don Kettler at (718) 687-5804 (tech supervisor for Higgins Hall Auditorium)
+   * November 16th 
+* Speak with Peter Patchen about DDA Sponsorship (monetary and name based)
+   * November 16th or 19th 
+* Find videographers and contact them
+   * November 19th 
+   * Meet a second time as well in December
+* Determine final budget and cost of facilities and documentation
+   * November 20th 
+* Concessions logistics?
+* Make presentation pitch for class 11/14
+* Advertisement through DDA announce and elsewhere
+* Inclusion of other final works from the class during this time and space
+* Create full technical plan for the night of and debrief with Don
+
+
+Technical Steps:
+* Speak with Don about the available resources in the space
+* Come up with the TouchDesigner workflow
+* Get Resource Center sorted out!
+* Rent a Tascam for audio recording
+* Rent the camera equipment and figure out workflow for streaming the video and working with the projector within the space
+* Explore audio feedback capabilities
+* Trial run with the full system in a classroom or 4E-03
+* Final troubleshooting
+* Get all documentation
+
+
+Artistic Steps:
+* Come up with the text for the audio portions
+* Cast the voice actor(s)
+* Cast the performers
+* Record the audio 
+* Create TouchDesigner project with audio and visual elements
+* Include camera stream in the TouchDesigner work
+* Create physical elements: any concessions items, flyers, handouts or playbills, anything for the entrance, reserved ropes
+* Final performance/event
+* Edit documentation
+* Post documentation
+
+
+Class deadlines:
+* November 14 in class pitch presentation
+* November 28 prototype review
+* December 12 final event date 
+* December 17 documentation due
